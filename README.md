@@ -35,6 +35,7 @@ The Code Comment Generator is designed to generate informative and well-structur
     ```
 
 ### Acknowledgments
-The Code Comment Generator was developed by Shubham Sah.
+The Code Comment Generator was developed by Kshitij Dalvi.
 
-Made with ❤️ by Shubham
+Made with ❤️ by Kshitij Dalvi.
+
